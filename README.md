@@ -15,6 +15,11 @@ This application is a text editor that is built as a Progressive Web Application
 
 ## Links to deployment
 
-https://sheltered-thicket-30688.herokuapp.com/
+[Heroku Deployment](https://sheltered-thicket-30688.herokuapp.com/)
+
+[GitHub Repo](https://github.com/bennygo3/ProgressivelyReliableWebCapableApplicationInstallable)
 
 
+## Contact Info
+
+[email](gobecodeme@gmail.com)
