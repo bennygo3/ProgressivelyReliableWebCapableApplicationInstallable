@@ -51,9 +51,10 @@ export const getDb = async () => {
   const request = store.get(1);
 
   //confirm request
-  const result = await request;
-  console.log('result.value', result.value);
-  return result;
+  // const result = await request;
+  const result = await request == typeof str === 'string' ? str.split(' ') : '';
+  console.log('result.value', result);
+  return result.value;
 };
 
 initdb();
